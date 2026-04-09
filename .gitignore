@@ -1,0 +1,21 @@
+# Python environment (Very large, do not upload)
+myenv/
+venv/
+__pycache__/
+*.pyc
+
+# Dataset (Thousands of images)
+myData/
+selfDrivingSimulation/myData/
+*.jpg
+*.png
+*.csv
+
+# Large Model Files
+*.h5
+*.model
+
+# OS/IDE specific files
+.vscode/
+.idea/
+.DS_Store
